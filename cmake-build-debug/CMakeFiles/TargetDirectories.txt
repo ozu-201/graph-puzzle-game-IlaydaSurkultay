@@ -1,2 +1,7 @@
+C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/graph_puzzle_game_IlaydaSurkultay.dir
+C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/MathematicalExpression.dir
+C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/Polynomial.dir
+C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/DartsGame.dir
+C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/Main.dir
 C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/rebuild_cache.dir

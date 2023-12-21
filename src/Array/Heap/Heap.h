@@ -1,12 +1,4 @@
 //
-// Created by is021433 on 12/14/2023.
-//
-
-#ifndef GRAPH_PUZZLE_GAME_ILAYDASURKULTAY_HEAP_H
-#define GRAPH_PUZZLE_GAME_ILAYDASURKULTAY_HEAP_H
-
-
-//
 // Created by Olcay Taner YILDIZ on 24.04.2023.
 //
 
@@ -37,6 +29,3 @@ public:
 
 
 #endif //DATASTRUCTURES_CPP_HEAP_H
-
-
-#endif //GRAPH_PUZZLE_GAME_ILAYDASURKULTAY_HEAP_H

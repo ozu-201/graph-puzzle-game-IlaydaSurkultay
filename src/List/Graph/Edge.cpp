@@ -1,8 +1,4 @@
 //
-// Created by is021433 on 12/14/2023.
-//
-
-//
 // Created by Olcay Taner YILDIZ on 8.05.2023.
 //
 

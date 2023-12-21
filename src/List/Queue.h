@@ -1,12 +1,4 @@
 //
-// Created by is021433 on 12/14/2023.
-//
-
-#ifndef GRAPH_PUZZLE_GAME_ILAYDASURKULTAY_QUEUE_H
-#define GRAPH_PUZZLE_GAME_ILAYDASURKULTAY_QUEUE_H
-
-
-//
 // Created by Olcay Taner YILDIZ on 27.03.2023.
 //
 
@@ -31,6 +23,3 @@ namespace list {
 
 }
 #endif //DATASTRUCTURES_CPP_QUEUE_H
-
-
-#endif //GRAPH_PUZZLE_GAME_ILAYDASURKULTAY_QUEUE_H

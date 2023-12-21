@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\TEMP\Desktop\graph-puzzle-game-IlaydaSurkultay\src Select CMakeLists.txt

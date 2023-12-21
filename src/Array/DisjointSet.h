@@ -1,12 +1,4 @@
 //
-// Created by is021433 on 12/14/2023.
-//
-
-#ifndef GITIGNORE_DISJOINTSET_H
-#define GITIGNORE_DISJOINTSET_H
-
-
-//
 // Created by Olcay Taner YILDIZ on 6.05.2023.
 //
 
@@ -31,5 +23,3 @@ public:
 
 
 #endif //DATASTRUCTURES_CPP_DISJOINTSET_H
-
-#endif //GITIGNORE_DISJOINTSET_H

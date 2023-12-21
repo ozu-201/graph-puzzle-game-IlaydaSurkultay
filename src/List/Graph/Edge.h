@@ -1,12 +1,4 @@
 //
-// Created by is021433 on 12/14/2023.
-//
-
-#ifndef GRAPH_PUZZLE_GAME_ILAYDASURKULTAY_EDGE_H
-#define GRAPH_PUZZLE_GAME_ILAYDASURKULTAY_EDGE_H
-
-
-//
 // Created by Olcay Taner YILDIZ on 8.05.2023.
 //
 
@@ -32,6 +24,3 @@ public:
 
 
 #endif //DATASTRUCTURES_CPP_EDGE_H
-
-
-#endif //GRAPH_PUZZLE_GAME_ILAYDASURKULTAY_EDGE_H
