@@ -28,8 +28,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/TEMP/Desktop/proj3/graph-puzzle-game-IlaydaSurkultay/src/cmake-build-debug",
-		"source" : "C:/Users/TEMP/Desktop/proj3/graph-puzzle-game-IlaydaSurkultay/src"
+		"build" : "C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug",
+		"source" : "C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay"
 	},
 	"version" : 
 	{

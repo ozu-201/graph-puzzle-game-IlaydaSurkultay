@@ -1,29 +1,57 @@
-"C:\Program Files\JetBrains\CLion 2023.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\TEMP\Desktop\proj3\graph-puzzle-game-IlaydaSurkultay\src -B C:\Users\TEMP\Desktop\proj3\graph-puzzle-game-IlaydaSurkultay\src\cmake-build-debug
-CMake Warning (dev) in CMakeLists.txt:
-  No project() command is present.  The top-level CMakeLists.txt file must
-  contain a literal, direct call to the project() command.  Add a line of
-  code such as
-
-    project(ProjectName)
-
-  near the top of the file, but after cmake_minimum_required().
-
-  CMake is pretending there is a "project(Project)" command on the first
-  line.
-This warning is for project developers.  Use -Wno-dev to suppress it.
-
--- The C compiler identification is GNU 11.2.0
--- The CXX compiler identification is GNU 11.2.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/gcc.exe - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/g++.exe - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
+"C:\Program Files\JetBrains\CLion 2023.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\TEMP\Desktop\graph-puzzle-game-IlaydaSurkultay\src -B C:\Users\TEMP\Desktop\graph-puzzle-game-IlaydaSurkultay\src\cmake-build-debug
 -- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/TEMP/Desktop/proj3/graph-puzzle-game-IlaydaSurkultay/src/cmake-build-debug
+CMake Error at CMakeLists.txt:13 (add_library):
+  Cannot find source file:
+
+    src/List/Node.cpp
+
+
+CMake Error at CMakeLists.txt:16 (add_executable):
+  Cannot find source file:
+
+    src/Array/MathematicalExpression/TokenType.h
+
+
+CMake Error at CMakeLists.txt:17 (add_executable):
+  Cannot find source file:
+
+    src/List/Polynomial/TestPolynomial.cpp
+
+
+CMake Error at CMakeLists.txt:18 (add_executable):
+  Cannot find source file:
+
+    src/Array/DartsGame/Element.cpp
+
+
+CMake Error at CMakeLists.txt:21 (add_executable):
+  Cannot find source file:
+
+    src/main.cpp
+
+
+CMake Error at CMakeLists.txt:13 (add_library):
+  No SOURCES given to target: graph_puzzle_game_IlaydaSurkultay
+
+
+CMake Error at CMakeLists.txt:15 (add_executable):
+  No SOURCES given to target: TestLinkedList
+
+
+CMake Error at CMakeLists.txt:16 (add_executable):
+  No SOURCES given to target: MathematicalExpression
+
+
+CMake Error at CMakeLists.txt:17 (add_executable):
+  No SOURCES given to target: Polynomial
+
+
+CMake Error at CMakeLists.txt:18 (add_executable):
+  No SOURCES given to target: DartsGame
+
+
+CMake Error at CMakeLists.txt:21 (add_executable):
+  No SOURCES given to target: Main
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
