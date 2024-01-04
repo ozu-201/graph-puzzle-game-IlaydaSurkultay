@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay
+# Install script for directory: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/graph_puzzle_game_IlaydaSurkultay")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Exam_CPP")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/TEMP/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

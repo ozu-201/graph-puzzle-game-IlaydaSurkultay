@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.4\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\TEMP\Desktop\graph-puzzle-game-IlaydaSurkultay
+CMAKE_SOURCE_DIR = C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\TEMP\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\TEMP\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles C:\Users\TEMP\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\TEMP\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -115,6 +115,1023 @@ depend:
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
+#=============================================================================
+# Target rules for targets named Exam_CPP
+
+# Build rule for target.
+Exam_CPP: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Exam_CPP
+.PHONY : Exam_CPP
+
+# fast build rule for target.
+Exam_CPP/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/build
+.PHONY : Exam_CPP/fast
+
+#=============================================================================
+# Target rules for targets named ExamTest1
+
+# Build rule for target.
+ExamTest1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ExamTest1
+.PHONY : ExamTest1
+
+# fast build rule for target.
+ExamTest1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/build
+.PHONY : ExamTest1/fast
+
+#=============================================================================
+# Target rules for targets named ExamTest2
+
+# Build rule for target.
+ExamTest2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ExamTest2
+.PHONY : ExamTest2
+
+# fast build rule for target.
+ExamTest2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/build
+.PHONY : ExamTest2/fast
+
+src/Array/DisjointSet.obj: src/Array/DisjointSet.cpp.obj
+.PHONY : src/Array/DisjointSet.obj
+
+# target to build an object file
+src/Array/DisjointSet.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/DisjointSet.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/DisjointSet.cpp.obj
+.PHONY : src/Array/DisjointSet.cpp.obj
+
+src/Array/DisjointSet.i: src/Array/DisjointSet.cpp.i
+.PHONY : src/Array/DisjointSet.i
+
+# target to preprocess a source file
+src/Array/DisjointSet.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/DisjointSet.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/DisjointSet.cpp.i
+.PHONY : src/Array/DisjointSet.cpp.i
+
+src/Array/DisjointSet.s: src/Array/DisjointSet.cpp.s
+.PHONY : src/Array/DisjointSet.s
+
+# target to generate assembly for a file
+src/Array/DisjointSet.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/DisjointSet.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/DisjointSet.cpp.s
+.PHONY : src/Array/DisjointSet.cpp.s
+
+src/Array/Element.obj: src/Array/Element.cpp.obj
+.PHONY : src/Array/Element.obj
+
+# target to build an object file
+src/Array/Element.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Element.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Element.cpp.obj
+.PHONY : src/Array/Element.cpp.obj
+
+src/Array/Element.i: src/Array/Element.cpp.i
+.PHONY : src/Array/Element.i
+
+# target to preprocess a source file
+src/Array/Element.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Element.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Element.cpp.i
+.PHONY : src/Array/Element.cpp.i
+
+src/Array/Element.s: src/Array/Element.cpp.s
+.PHONY : src/Array/Element.s
+
+# target to generate assembly for a file
+src/Array/Element.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Element.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Element.cpp.s
+.PHONY : src/Array/Element.cpp.s
+
+src/Array/Graph/Graph.obj: src/Array/Graph/Graph.cpp.obj
+.PHONY : src/Array/Graph/Graph.obj
+
+# target to build an object file
+src/Array/Graph/Graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Graph/Graph.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Graph/Graph.cpp.obj
+.PHONY : src/Array/Graph/Graph.cpp.obj
+
+src/Array/Graph/Graph.i: src/Array/Graph/Graph.cpp.i
+.PHONY : src/Array/Graph/Graph.i
+
+# target to preprocess a source file
+src/Array/Graph/Graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Graph/Graph.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Graph/Graph.cpp.i
+.PHONY : src/Array/Graph/Graph.cpp.i
+
+src/Array/Graph/Graph.s: src/Array/Graph/Graph.cpp.s
+.PHONY : src/Array/Graph/Graph.s
+
+# target to generate assembly for a file
+src/Array/Graph/Graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Graph/Graph.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Graph/Graph.cpp.s
+.PHONY : src/Array/Graph/Graph.cpp.s
+
+src/Array/Hash.obj: src/Array/Hash.cpp.obj
+.PHONY : src/Array/Hash.obj
+
+# target to build an object file
+src/Array/Hash.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Hash.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Hash.cpp.obj
+.PHONY : src/Array/Hash.cpp.obj
+
+src/Array/Hash.i: src/Array/Hash.cpp.i
+.PHONY : src/Array/Hash.i
+
+# target to preprocess a source file
+src/Array/Hash.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Hash.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Hash.cpp.i
+.PHONY : src/Array/Hash.cpp.i
+
+src/Array/Hash.s: src/Array/Hash.cpp.s
+.PHONY : src/Array/Hash.s
+
+# target to generate assembly for a file
+src/Array/Hash.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Hash.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Hash.cpp.s
+.PHONY : src/Array/Hash.cpp.s
+
+src/Array/Heap/DHeap.obj: src/Array/Heap/DHeap.cpp.obj
+.PHONY : src/Array/Heap/DHeap.obj
+
+# target to build an object file
+src/Array/Heap/DHeap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/DHeap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/DHeap.cpp.obj
+.PHONY : src/Array/Heap/DHeap.cpp.obj
+
+src/Array/Heap/DHeap.i: src/Array/Heap/DHeap.cpp.i
+.PHONY : src/Array/Heap/DHeap.i
+
+# target to preprocess a source file
+src/Array/Heap/DHeap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/DHeap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/DHeap.cpp.i
+.PHONY : src/Array/Heap/DHeap.cpp.i
+
+src/Array/Heap/DHeap.s: src/Array/Heap/DHeap.cpp.s
+.PHONY : src/Array/Heap/DHeap.s
+
+# target to generate assembly for a file
+src/Array/Heap/DHeap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/DHeap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/DHeap.cpp.s
+.PHONY : src/Array/Heap/DHeap.cpp.s
+
+src/Array/Heap/Heap.obj: src/Array/Heap/Heap.cpp.obj
+.PHONY : src/Array/Heap/Heap.obj
+
+# target to build an object file
+src/Array/Heap/Heap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/Heap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/Heap.cpp.obj
+.PHONY : src/Array/Heap/Heap.cpp.obj
+
+src/Array/Heap/Heap.i: src/Array/Heap/Heap.cpp.i
+.PHONY : src/Array/Heap/Heap.i
+
+# target to preprocess a source file
+src/Array/Heap/Heap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/Heap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/Heap.cpp.i
+.PHONY : src/Array/Heap/Heap.cpp.i
+
+src/Array/Heap/Heap.s: src/Array/Heap/Heap.cpp.s
+.PHONY : src/Array/Heap/Heap.s
+
+# target to generate assembly for a file
+src/Array/Heap/Heap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/Heap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/Heap.cpp.s
+.PHONY : src/Array/Heap/Heap.cpp.s
+
+src/Array/Heap/HeapNode.obj: src/Array/Heap/HeapNode.cpp.obj
+.PHONY : src/Array/Heap/HeapNode.obj
+
+# target to build an object file
+src/Array/Heap/HeapNode.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/HeapNode.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/HeapNode.cpp.obj
+.PHONY : src/Array/Heap/HeapNode.cpp.obj
+
+src/Array/Heap/HeapNode.i: src/Array/Heap/HeapNode.cpp.i
+.PHONY : src/Array/Heap/HeapNode.i
+
+# target to preprocess a source file
+src/Array/Heap/HeapNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/HeapNode.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/HeapNode.cpp.i
+.PHONY : src/Array/Heap/HeapNode.cpp.i
+
+src/Array/Heap/HeapNode.s: src/Array/Heap/HeapNode.cpp.s
+.PHONY : src/Array/Heap/HeapNode.s
+
+# target to generate assembly for a file
+src/Array/Heap/HeapNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/HeapNode.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/HeapNode.cpp.s
+.PHONY : src/Array/Heap/HeapNode.cpp.s
+
+src/Array/Heap/MaxDHeap.obj: src/Array/Heap/MaxDHeap.cpp.obj
+.PHONY : src/Array/Heap/MaxDHeap.obj
+
+# target to build an object file
+src/Array/Heap/MaxDHeap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MaxDHeap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MaxDHeap.cpp.obj
+.PHONY : src/Array/Heap/MaxDHeap.cpp.obj
+
+src/Array/Heap/MaxDHeap.i: src/Array/Heap/MaxDHeap.cpp.i
+.PHONY : src/Array/Heap/MaxDHeap.i
+
+# target to preprocess a source file
+src/Array/Heap/MaxDHeap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MaxDHeap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MaxDHeap.cpp.i
+.PHONY : src/Array/Heap/MaxDHeap.cpp.i
+
+src/Array/Heap/MaxDHeap.s: src/Array/Heap/MaxDHeap.cpp.s
+.PHONY : src/Array/Heap/MaxDHeap.s
+
+# target to generate assembly for a file
+src/Array/Heap/MaxDHeap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MaxDHeap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MaxDHeap.cpp.s
+.PHONY : src/Array/Heap/MaxDHeap.cpp.s
+
+src/Array/Heap/MaxHeap.obj: src/Array/Heap/MaxHeap.cpp.obj
+.PHONY : src/Array/Heap/MaxHeap.obj
+
+# target to build an object file
+src/Array/Heap/MaxHeap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MaxHeap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MaxHeap.cpp.obj
+.PHONY : src/Array/Heap/MaxHeap.cpp.obj
+
+src/Array/Heap/MaxHeap.i: src/Array/Heap/MaxHeap.cpp.i
+.PHONY : src/Array/Heap/MaxHeap.i
+
+# target to preprocess a source file
+src/Array/Heap/MaxHeap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MaxHeap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MaxHeap.cpp.i
+.PHONY : src/Array/Heap/MaxHeap.cpp.i
+
+src/Array/Heap/MaxHeap.s: src/Array/Heap/MaxHeap.cpp.s
+.PHONY : src/Array/Heap/MaxHeap.s
+
+# target to generate assembly for a file
+src/Array/Heap/MaxHeap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MaxHeap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MaxHeap.cpp.s
+.PHONY : src/Array/Heap/MaxHeap.cpp.s
+
+src/Array/Heap/MinDHeap.obj: src/Array/Heap/MinDHeap.cpp.obj
+.PHONY : src/Array/Heap/MinDHeap.obj
+
+# target to build an object file
+src/Array/Heap/MinDHeap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MinDHeap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MinDHeap.cpp.obj
+.PHONY : src/Array/Heap/MinDHeap.cpp.obj
+
+src/Array/Heap/MinDHeap.i: src/Array/Heap/MinDHeap.cpp.i
+.PHONY : src/Array/Heap/MinDHeap.i
+
+# target to preprocess a source file
+src/Array/Heap/MinDHeap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MinDHeap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MinDHeap.cpp.i
+.PHONY : src/Array/Heap/MinDHeap.cpp.i
+
+src/Array/Heap/MinDHeap.s: src/Array/Heap/MinDHeap.cpp.s
+.PHONY : src/Array/Heap/MinDHeap.s
+
+# target to generate assembly for a file
+src/Array/Heap/MinDHeap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MinDHeap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MinDHeap.cpp.s
+.PHONY : src/Array/Heap/MinDHeap.cpp.s
+
+src/Array/Heap/MinHeap.obj: src/Array/Heap/MinHeap.cpp.obj
+.PHONY : src/Array/Heap/MinHeap.obj
+
+# target to build an object file
+src/Array/Heap/MinHeap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MinHeap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MinHeap.cpp.obj
+.PHONY : src/Array/Heap/MinHeap.cpp.obj
+
+src/Array/Heap/MinHeap.i: src/Array/Heap/MinHeap.cpp.i
+.PHONY : src/Array/Heap/MinHeap.i
+
+# target to preprocess a source file
+src/Array/Heap/MinHeap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MinHeap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MinHeap.cpp.i
+.PHONY : src/Array/Heap/MinHeap.cpp.i
+
+src/Array/Heap/MinHeap.s: src/Array/Heap/MinHeap.cpp.s
+.PHONY : src/Array/Heap/MinHeap.s
+
+# target to generate assembly for a file
+src/Array/Heap/MinHeap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Heap/MinHeap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Heap/MinHeap.cpp.s
+.PHONY : src/Array/Heap/MinHeap.cpp.s
+
+src/Array/Queue.obj: src/Array/Queue.cpp.obj
+.PHONY : src/Array/Queue.obj
+
+# target to build an object file
+src/Array/Queue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Queue.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Queue.cpp.obj
+.PHONY : src/Array/Queue.cpp.obj
+
+src/Array/Queue.i: src/Array/Queue.cpp.i
+.PHONY : src/Array/Queue.i
+
+# target to preprocess a source file
+src/Array/Queue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Queue.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Queue.cpp.i
+.PHONY : src/Array/Queue.cpp.i
+
+src/Array/Queue.s: src/Array/Queue.cpp.s
+.PHONY : src/Array/Queue.s
+
+# target to generate assembly for a file
+src/Array/Queue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Queue.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Queue.cpp.s
+.PHONY : src/Array/Queue.cpp.s
+
+src/Array/Set.obj: src/Array/Set.cpp.obj
+.PHONY : src/Array/Set.obj
+
+# target to build an object file
+src/Array/Set.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Set.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Set.cpp.obj
+.PHONY : src/Array/Set.cpp.obj
+
+src/Array/Set.i: src/Array/Set.cpp.i
+.PHONY : src/Array/Set.i
+
+# target to preprocess a source file
+src/Array/Set.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Set.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Set.cpp.i
+.PHONY : src/Array/Set.cpp.i
+
+src/Array/Set.s: src/Array/Set.cpp.s
+.PHONY : src/Array/Set.s
+
+# target to generate assembly for a file
+src/Array/Set.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Set.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Set.cpp.s
+.PHONY : src/Array/Set.cpp.s
+
+src/Array/Stack.obj: src/Array/Stack.cpp.obj
+.PHONY : src/Array/Stack.obj
+
+# target to build an object file
+src/Array/Stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Stack.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Stack.cpp.obj
+.PHONY : src/Array/Stack.cpp.obj
+
+src/Array/Stack.i: src/Array/Stack.cpp.i
+.PHONY : src/Array/Stack.i
+
+# target to preprocess a source file
+src/Array/Stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Stack.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Stack.cpp.i
+.PHONY : src/Array/Stack.cpp.i
+
+src/Array/Stack.s: src/Array/Stack.cpp.s
+.PHONY : src/Array/Stack.s
+
+# target to generate assembly for a file
+src/Array/Stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Array/Stack.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Array/Stack.cpp.s
+.PHONY : src/Array/Stack.cpp.s
+
+src/ExamTest1.obj: src/ExamTest1.cpp.obj
+.PHONY : src/ExamTest1.obj
+
+# target to build an object file
+src/ExamTest1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.obj
+.PHONY : src/ExamTest1.cpp.obj
+
+src/ExamTest1.i: src/ExamTest1.cpp.i
+.PHONY : src/ExamTest1.i
+
+# target to preprocess a source file
+src/ExamTest1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.i
+.PHONY : src/ExamTest1.cpp.i
+
+src/ExamTest1.s: src/ExamTest1.cpp.s
+.PHONY : src/ExamTest1.s
+
+# target to generate assembly for a file
+src/ExamTest1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.s
+.PHONY : src/ExamTest1.cpp.s
+
+src/ExamTest2.obj: src/ExamTest2.cpp.obj
+.PHONY : src/ExamTest2.obj
+
+# target to build an object file
+src/ExamTest2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/ExamTest2.cpp.obj
+.PHONY : src/ExamTest2.cpp.obj
+
+src/ExamTest2.i: src/ExamTest2.cpp.i
+.PHONY : src/ExamTest2.i
+
+# target to preprocess a source file
+src/ExamTest2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/ExamTest2.cpp.i
+.PHONY : src/ExamTest2.cpp.i
+
+src/ExamTest2.s: src/ExamTest2.cpp.s
+.PHONY : src/ExamTest2.s
+
+# target to generate assembly for a file
+src/ExamTest2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/ExamTest2.cpp.s
+.PHONY : src/ExamTest2.cpp.s
+
+src/General/AbstractGraph.obj: src/General/AbstractGraph.cpp.obj
+.PHONY : src/General/AbstractGraph.obj
+
+# target to build an object file
+src/General/AbstractGraph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/General/AbstractGraph.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/General/AbstractGraph.cpp.obj
+.PHONY : src/General/AbstractGraph.cpp.obj
+
+src/General/AbstractGraph.i: src/General/AbstractGraph.cpp.i
+.PHONY : src/General/AbstractGraph.i
+
+# target to preprocess a source file
+src/General/AbstractGraph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/General/AbstractGraph.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/General/AbstractGraph.cpp.i
+.PHONY : src/General/AbstractGraph.cpp.i
+
+src/General/AbstractGraph.s: src/General/AbstractGraph.cpp.s
+.PHONY : src/General/AbstractGraph.s
+
+# target to generate assembly for a file
+src/General/AbstractGraph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/General/AbstractGraph.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/General/AbstractGraph.cpp.s
+.PHONY : src/General/AbstractGraph.cpp.s
+
+src/General/Path.obj: src/General/Path.cpp.obj
+.PHONY : src/General/Path.obj
+
+# target to build an object file
+src/General/Path.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/General/Path.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/General/Path.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/General/Path.cpp.obj
+.PHONY : src/General/Path.cpp.obj
+
+src/General/Path.i: src/General/Path.cpp.i
+.PHONY : src/General/Path.i
+
+# target to preprocess a source file
+src/General/Path.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/General/Path.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/General/Path.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/General/Path.cpp.i
+.PHONY : src/General/Path.cpp.i
+
+src/General/Path.s: src/General/Path.cpp.s
+.PHONY : src/General/Path.s
+
+# target to generate assembly for a file
+src/General/Path.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/General/Path.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/General/Path.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/General/Path.cpp.s
+.PHONY : src/General/Path.cpp.s
+
+src/List/DoublyLinkedList.obj: src/List/DoublyLinkedList.cpp.obj
+.PHONY : src/List/DoublyLinkedList.obj
+
+# target to build an object file
+src/List/DoublyLinkedList.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/DoublyLinkedList.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/DoublyLinkedList.cpp.obj
+.PHONY : src/List/DoublyLinkedList.cpp.obj
+
+src/List/DoublyLinkedList.i: src/List/DoublyLinkedList.cpp.i
+.PHONY : src/List/DoublyLinkedList.i
+
+# target to preprocess a source file
+src/List/DoublyLinkedList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/DoublyLinkedList.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/DoublyLinkedList.cpp.i
+.PHONY : src/List/DoublyLinkedList.cpp.i
+
+src/List/DoublyLinkedList.s: src/List/DoublyLinkedList.cpp.s
+.PHONY : src/List/DoublyLinkedList.s
+
+# target to generate assembly for a file
+src/List/DoublyLinkedList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/DoublyLinkedList.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/DoublyLinkedList.cpp.s
+.PHONY : src/List/DoublyLinkedList.cpp.s
+
+src/List/DoublyNode.obj: src/List/DoublyNode.cpp.obj
+.PHONY : src/List/DoublyNode.obj
+
+# target to build an object file
+src/List/DoublyNode.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/DoublyNode.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/DoublyNode.cpp.obj
+.PHONY : src/List/DoublyNode.cpp.obj
+
+src/List/DoublyNode.i: src/List/DoublyNode.cpp.i
+.PHONY : src/List/DoublyNode.i
+
+# target to preprocess a source file
+src/List/DoublyNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/DoublyNode.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/DoublyNode.cpp.i
+.PHONY : src/List/DoublyNode.cpp.i
+
+src/List/DoublyNode.s: src/List/DoublyNode.cpp.s
+.PHONY : src/List/DoublyNode.s
+
+# target to generate assembly for a file
+src/List/DoublyNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/DoublyNode.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/DoublyNode.cpp.s
+.PHONY : src/List/DoublyNode.cpp.s
+
+src/List/Graph/Edge.obj: src/List/Graph/Edge.cpp.obj
+.PHONY : src/List/Graph/Edge.obj
+
+# target to build an object file
+src/List/Graph/Edge.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Graph/Edge.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Graph/Edge.cpp.obj
+.PHONY : src/List/Graph/Edge.cpp.obj
+
+src/List/Graph/Edge.i: src/List/Graph/Edge.cpp.i
+.PHONY : src/List/Graph/Edge.i
+
+# target to preprocess a source file
+src/List/Graph/Edge.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Graph/Edge.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Graph/Edge.cpp.i
+.PHONY : src/List/Graph/Edge.cpp.i
+
+src/List/Graph/Edge.s: src/List/Graph/Edge.cpp.s
+.PHONY : src/List/Graph/Edge.s
+
+# target to generate assembly for a file
+src/List/Graph/Edge.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Graph/Edge.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Graph/Edge.cpp.s
+.PHONY : src/List/Graph/Edge.cpp.s
+
+src/List/Graph/EdgeList.obj: src/List/Graph/EdgeList.cpp.obj
+.PHONY : src/List/Graph/EdgeList.obj
+
+# target to build an object file
+src/List/Graph/EdgeList.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Graph/EdgeList.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Graph/EdgeList.cpp.obj
+.PHONY : src/List/Graph/EdgeList.cpp.obj
+
+src/List/Graph/EdgeList.i: src/List/Graph/EdgeList.cpp.i
+.PHONY : src/List/Graph/EdgeList.i
+
+# target to preprocess a source file
+src/List/Graph/EdgeList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Graph/EdgeList.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Graph/EdgeList.cpp.i
+.PHONY : src/List/Graph/EdgeList.cpp.i
+
+src/List/Graph/EdgeList.s: src/List/Graph/EdgeList.cpp.s
+.PHONY : src/List/Graph/EdgeList.s
+
+# target to generate assembly for a file
+src/List/Graph/EdgeList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Graph/EdgeList.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Graph/EdgeList.cpp.s
+.PHONY : src/List/Graph/EdgeList.cpp.s
+
+src/List/Graph/Graph.obj: src/List/Graph/Graph.cpp.obj
+.PHONY : src/List/Graph/Graph.obj
+
+# target to build an object file
+src/List/Graph/Graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Graph/Graph.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Graph/Graph.cpp.obj
+.PHONY : src/List/Graph/Graph.cpp.obj
+
+src/List/Graph/Graph.i: src/List/Graph/Graph.cpp.i
+.PHONY : src/List/Graph/Graph.i
+
+# target to preprocess a source file
+src/List/Graph/Graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Graph/Graph.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Graph/Graph.cpp.i
+.PHONY : src/List/Graph/Graph.cpp.i
+
+src/List/Graph/Graph.s: src/List/Graph/Graph.cpp.s
+.PHONY : src/List/Graph/Graph.s
+
+# target to generate assembly for a file
+src/List/Graph/Graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Graph/Graph.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Graph/Graph.cpp.s
+.PHONY : src/List/Graph/Graph.cpp.s
+
+src/List/Hash.obj: src/List/Hash.cpp.obj
+.PHONY : src/List/Hash.obj
+
+# target to build an object file
+src/List/Hash.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Hash.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Hash.cpp.obj
+.PHONY : src/List/Hash.cpp.obj
+
+src/List/Hash.i: src/List/Hash.cpp.i
+.PHONY : src/List/Hash.i
+
+# target to preprocess a source file
+src/List/Hash.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Hash.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Hash.cpp.i
+.PHONY : src/List/Hash.cpp.i
+
+src/List/Hash.s: src/List/Hash.cpp.s
+.PHONY : src/List/Hash.s
+
+# target to generate assembly for a file
+src/List/Hash.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Hash.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Hash.cpp.s
+.PHONY : src/List/Hash.cpp.s
+
+src/List/LinkedList.obj: src/List/LinkedList.cpp.obj
+.PHONY : src/List/LinkedList.obj
+
+# target to build an object file
+src/List/LinkedList.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/LinkedList.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/LinkedList.cpp.obj
+.PHONY : src/List/LinkedList.cpp.obj
+
+src/List/LinkedList.i: src/List/LinkedList.cpp.i
+.PHONY : src/List/LinkedList.i
+
+# target to preprocess a source file
+src/List/LinkedList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/LinkedList.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/LinkedList.cpp.i
+.PHONY : src/List/LinkedList.cpp.i
+
+src/List/LinkedList.s: src/List/LinkedList.cpp.s
+.PHONY : src/List/LinkedList.s
+
+# target to generate assembly for a file
+src/List/LinkedList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/LinkedList.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/LinkedList.cpp.s
+.PHONY : src/List/LinkedList.cpp.s
+
+src/List/Node.obj: src/List/Node.cpp.obj
+.PHONY : src/List/Node.obj
+
+# target to build an object file
+src/List/Node.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Node.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Node.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Node.cpp.obj
+.PHONY : src/List/Node.cpp.obj
+
+src/List/Node.i: src/List/Node.cpp.i
+.PHONY : src/List/Node.i
+
+# target to preprocess a source file
+src/List/Node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Node.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Node.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Node.cpp.i
+.PHONY : src/List/Node.cpp.i
+
+src/List/Node.s: src/List/Node.cpp.s
+.PHONY : src/List/Node.s
+
+# target to generate assembly for a file
+src/List/Node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Node.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Node.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Node.cpp.s
+.PHONY : src/List/Node.cpp.s
+
+src/List/Queue.obj: src/List/Queue.cpp.obj
+.PHONY : src/List/Queue.obj
+
+# target to build an object file
+src/List/Queue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Queue.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Queue.cpp.obj
+.PHONY : src/List/Queue.cpp.obj
+
+src/List/Queue.i: src/List/Queue.cpp.i
+.PHONY : src/List/Queue.i
+
+# target to preprocess a source file
+src/List/Queue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Queue.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Queue.cpp.i
+.PHONY : src/List/Queue.cpp.i
+
+src/List/Queue.s: src/List/Queue.cpp.s
+.PHONY : src/List/Queue.s
+
+# target to generate assembly for a file
+src/List/Queue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Queue.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Queue.cpp.s
+.PHONY : src/List/Queue.cpp.s
+
+src/List/Stack.obj: src/List/Stack.cpp.obj
+.PHONY : src/List/Stack.obj
+
+# target to build an object file
+src/List/Stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Stack.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Stack.cpp.obj
+.PHONY : src/List/Stack.cpp.obj
+
+src/List/Stack.i: src/List/Stack.cpp.i
+.PHONY : src/List/Stack.i
+
+# target to preprocess a source file
+src/List/Stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Stack.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Stack.cpp.i
+.PHONY : src/List/Stack.cpp.i
+
+src/List/Stack.s: src/List/Stack.cpp.s
+.PHONY : src/List/Stack.s
+
+# target to generate assembly for a file
+src/List/Stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/List/Stack.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/List/Stack.cpp.s
+.PHONY : src/List/Stack.cpp.s
+
+src/Tree/Element.obj: src/Tree/Element.cpp.obj
+.PHONY : src/Tree/Element.obj
+
+# target to build an object file
+src/Tree/Element.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Element.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Element.cpp.obj
+.PHONY : src/Tree/Element.cpp.obj
+
+src/Tree/Element.i: src/Tree/Element.cpp.i
+.PHONY : src/Tree/Element.i
+
+# target to preprocess a source file
+src/Tree/Element.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Element.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Element.cpp.i
+.PHONY : src/Tree/Element.cpp.i
+
+src/Tree/Element.s: src/Tree/Element.cpp.s
+.PHONY : src/Tree/Element.s
+
+# target to generate assembly for a file
+src/Tree/Element.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Element.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Element.cpp.s
+.PHONY : src/Tree/Element.cpp.s
+
+src/Tree/Queue.obj: src/Tree/Queue.cpp.obj
+.PHONY : src/Tree/Queue.obj
+
+# target to build an object file
+src/Tree/Queue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Queue.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Queue.cpp.obj
+.PHONY : src/Tree/Queue.cpp.obj
+
+src/Tree/Queue.i: src/Tree/Queue.cpp.i
+.PHONY : src/Tree/Queue.i
+
+# target to preprocess a source file
+src/Tree/Queue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Queue.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Queue.cpp.i
+.PHONY : src/Tree/Queue.cpp.i
+
+src/Tree/Queue.s: src/Tree/Queue.cpp.s
+.PHONY : src/Tree/Queue.s
+
+# target to generate assembly for a file
+src/Tree/Queue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Queue.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Queue.cpp.s
+.PHONY : src/Tree/Queue.cpp.s
+
+src/Tree/Stack.obj: src/Tree/Stack.cpp.obj
+.PHONY : src/Tree/Stack.obj
+
+# target to build an object file
+src/Tree/Stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Stack.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Stack.cpp.obj
+.PHONY : src/Tree/Stack.cpp.obj
+
+src/Tree/Stack.i: src/Tree/Stack.cpp.i
+.PHONY : src/Tree/Stack.i
+
+# target to preprocess a source file
+src/Tree/Stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Stack.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Stack.cpp.i
+.PHONY : src/Tree/Stack.cpp.i
+
+src/Tree/Stack.s: src/Tree/Stack.cpp.s
+.PHONY : src/Tree/Stack.s
+
+# target to generate assembly for a file
+src/Tree/Stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Stack.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Stack.cpp.s
+.PHONY : src/Tree/Stack.cpp.s
+
+src/Tree/Tree.obj: src/Tree/Tree.cpp.obj
+.PHONY : src/Tree/Tree.obj
+
+# target to build an object file
+src/Tree/Tree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Tree.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Tree.cpp.obj
+.PHONY : src/Tree/Tree.cpp.obj
+
+src/Tree/Tree.i: src/Tree/Tree.cpp.i
+.PHONY : src/Tree/Tree.i
+
+# target to preprocess a source file
+src/Tree/Tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Tree.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Tree.cpp.i
+.PHONY : src/Tree/Tree.cpp.i
+
+src/Tree/Tree.s: src/Tree/Tree.cpp.s
+.PHONY : src/Tree/Tree.s
+
+# target to generate assembly for a file
+src/Tree/Tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/Tree.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/Tree.cpp.s
+.PHONY : src/Tree/Tree.cpp.s
+
+src/Tree/TreeNode.obj: src/Tree/TreeNode.cpp.obj
+.PHONY : src/Tree/TreeNode.obj
+
+# target to build an object file
+src/Tree/TreeNode.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/TreeNode.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/TreeNode.cpp.obj
+.PHONY : src/Tree/TreeNode.cpp.obj
+
+src/Tree/TreeNode.i: src/Tree/TreeNode.cpp.i
+.PHONY : src/Tree/TreeNode.i
+
+# target to preprocess a source file
+src/Tree/TreeNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/TreeNode.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/TreeNode.cpp.i
+.PHONY : src/Tree/TreeNode.cpp.i
+
+src/Tree/TreeNode.s: src/Tree/TreeNode.cpp.s
+.PHONY : src/Tree/TreeNode.s
+
+# target to generate assembly for a file
+src/Tree/TreeNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exam_CPP.dir\build.make CMakeFiles/Exam_CPP.dir/src/Tree/TreeNode.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest1.dir\build.make CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ExamTest2.dir\build.make CMakeFiles/ExamTest2.dir/src/Tree/TreeNode.cpp.s
+.PHONY : src/Tree/TreeNode.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -123,6 +1140,108 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... ExamTest1
+	@echo ... ExamTest2
+	@echo ... Exam_CPP
+	@echo ... src/Array/DisjointSet.obj
+	@echo ... src/Array/DisjointSet.i
+	@echo ... src/Array/DisjointSet.s
+	@echo ... src/Array/Element.obj
+	@echo ... src/Array/Element.i
+	@echo ... src/Array/Element.s
+	@echo ... src/Array/Graph/Graph.obj
+	@echo ... src/Array/Graph/Graph.i
+	@echo ... src/Array/Graph/Graph.s
+	@echo ... src/Array/Hash.obj
+	@echo ... src/Array/Hash.i
+	@echo ... src/Array/Hash.s
+	@echo ... src/Array/Heap/DHeap.obj
+	@echo ... src/Array/Heap/DHeap.i
+	@echo ... src/Array/Heap/DHeap.s
+	@echo ... src/Array/Heap/Heap.obj
+	@echo ... src/Array/Heap/Heap.i
+	@echo ... src/Array/Heap/Heap.s
+	@echo ... src/Array/Heap/HeapNode.obj
+	@echo ... src/Array/Heap/HeapNode.i
+	@echo ... src/Array/Heap/HeapNode.s
+	@echo ... src/Array/Heap/MaxDHeap.obj
+	@echo ... src/Array/Heap/MaxDHeap.i
+	@echo ... src/Array/Heap/MaxDHeap.s
+	@echo ... src/Array/Heap/MaxHeap.obj
+	@echo ... src/Array/Heap/MaxHeap.i
+	@echo ... src/Array/Heap/MaxHeap.s
+	@echo ... src/Array/Heap/MinDHeap.obj
+	@echo ... src/Array/Heap/MinDHeap.i
+	@echo ... src/Array/Heap/MinDHeap.s
+	@echo ... src/Array/Heap/MinHeap.obj
+	@echo ... src/Array/Heap/MinHeap.i
+	@echo ... src/Array/Heap/MinHeap.s
+	@echo ... src/Array/Queue.obj
+	@echo ... src/Array/Queue.i
+	@echo ... src/Array/Queue.s
+	@echo ... src/Array/Set.obj
+	@echo ... src/Array/Set.i
+	@echo ... src/Array/Set.s
+	@echo ... src/Array/Stack.obj
+	@echo ... src/Array/Stack.i
+	@echo ... src/Array/Stack.s
+	@echo ... src/ExamTest1.obj
+	@echo ... src/ExamTest1.i
+	@echo ... src/ExamTest1.s
+	@echo ... src/ExamTest2.obj
+	@echo ... src/ExamTest2.i
+	@echo ... src/ExamTest2.s
+	@echo ... src/General/AbstractGraph.obj
+	@echo ... src/General/AbstractGraph.i
+	@echo ... src/General/AbstractGraph.s
+	@echo ... src/General/Path.obj
+	@echo ... src/General/Path.i
+	@echo ... src/General/Path.s
+	@echo ... src/List/DoublyLinkedList.obj
+	@echo ... src/List/DoublyLinkedList.i
+	@echo ... src/List/DoublyLinkedList.s
+	@echo ... src/List/DoublyNode.obj
+	@echo ... src/List/DoublyNode.i
+	@echo ... src/List/DoublyNode.s
+	@echo ... src/List/Graph/Edge.obj
+	@echo ... src/List/Graph/Edge.i
+	@echo ... src/List/Graph/Edge.s
+	@echo ... src/List/Graph/EdgeList.obj
+	@echo ... src/List/Graph/EdgeList.i
+	@echo ... src/List/Graph/EdgeList.s
+	@echo ... src/List/Graph/Graph.obj
+	@echo ... src/List/Graph/Graph.i
+	@echo ... src/List/Graph/Graph.s
+	@echo ... src/List/Hash.obj
+	@echo ... src/List/Hash.i
+	@echo ... src/List/Hash.s
+	@echo ... src/List/LinkedList.obj
+	@echo ... src/List/LinkedList.i
+	@echo ... src/List/LinkedList.s
+	@echo ... src/List/Node.obj
+	@echo ... src/List/Node.i
+	@echo ... src/List/Node.s
+	@echo ... src/List/Queue.obj
+	@echo ... src/List/Queue.i
+	@echo ... src/List/Queue.s
+	@echo ... src/List/Stack.obj
+	@echo ... src/List/Stack.i
+	@echo ... src/List/Stack.s
+	@echo ... src/Tree/Element.obj
+	@echo ... src/Tree/Element.i
+	@echo ... src/Tree/Element.s
+	@echo ... src/Tree/Queue.obj
+	@echo ... src/Tree/Queue.i
+	@echo ... src/Tree/Queue.s
+	@echo ... src/Tree/Stack.obj
+	@echo ... src/Tree/Stack.i
+	@echo ... src/Tree/Stack.s
+	@echo ... src/Tree/Tree.obj
+	@echo ... src/Tree/Tree.i
+	@echo ... src/Tree/Tree.s
+	@echo ... src/Tree/TreeNode.obj
+	@echo ... src/Tree/TreeNode.i
+	@echo ... src/Tree/TreeNode.s
 .PHONY : help
 
 

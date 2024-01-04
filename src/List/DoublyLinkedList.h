@@ -12,11 +12,6 @@
 class DoublyLinkedList : public LinkedList{
 public:
     void insertFirst(DoublyNode* newNode);
-    void insertMiddle(DoublyNode* newNode, DoublyNode* previous);
-    void insertLast(DoublyNode* newNode);
-    void deleteFirst() override;
-    void deleteMiddle(DoublyNode* node);
-    void deleteLast() override;
 };
 
 

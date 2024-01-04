@@ -18,19 +18,9 @@ public:
     bool isEmpty();
     Node* getHead();
     void insertFirst(Node* newNode);
-    void insertLast(Node* newNode);
-    void insertMiddle(Node* newNode, Node* previous);
     Node* search(int value);
-    Node* getNodeI(int i);
-    int numberOfElements();
-
-    virtual void deleteFirst();
     Node* getPrevious(Node* node);
-
-    virtual void deleteLast();
-    void deleteMiddle(Node* node);
     string to_string();
-    void deleteValue(int value);
 };
 
 

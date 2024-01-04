@@ -1,16 +1,13 @@
-//
-// Created by Olcay Taner YILDIZ on 8.05.2023.
-//
 
 #include "Graph.h"
-#include "../DisjointSet.h"
 #include "../Queue.h"
-#include "../Heap/Heap.h"
-#include "../Heap/MinHeap.h"
+#include <vector>
 
 namespace array{
 
+
     Graph::Graph(int vertexCount) : AbstractGraph(vertexCount){
+        index=0;
         edges = new int*[vertexCount];
         for (int i = 0; i < vertexCount; i++){
             edges[i] = new int[vertexCount];
@@ -32,22 +29,25 @@ namespace array{
     void Graph::addEdge(int from, int to) {
         edges[from][to] = 1;
     }
+    void Graph::addEdge(const std::string from, const std::string to) {
+        for(int i = 0; i<words.size(); i++){
+            for(int j = 0; j<words.size(); j++) {
+                if (words[i] == from && words[j] == to) {
+                    edges[i][j] = 1;
+                    std::cout << "edge " << i<< " " << j << " 1\n";
+                }
+            }
+        }
+    }
 
     void Graph::addEdge(int from, int to, int weight) {
         edges[from][to] = weight;
     }
+    void Graph::addWord(std::string word) {
+        nums.push_back(index);
+        words.push_back(word);
+        index++;
 
-    void Graph::connectedComponentDisjointSet() {
-        DisjointSet sets = DisjointSet(vertexCount);
-        for (int fromNode = 0; fromNode < vertexCount; fromNode++){
-            for (int toNode = 0; toNode < vertexCount; toNode++){
-                if (edges[fromNode][toNode] > 0){
-                    if (sets.findSetRecursive(fromNode) != sets.findSetRecursive(toNode)){
-                        sets.unionOfSets(fromNode, toNode);
-                    }
-                }
-            }
-        }
     }
 
     void Graph::depthFirstSearch(bool *visited, int fromNode) {
@@ -78,107 +78,116 @@ namespace array{
         }
     }
 
-    Path *Graph::bellmanFord(int source) {
-        Path* shortestPaths = initializePaths(source);
-        for (int i = 0; i < vertexCount - 1; i++){
-            for (int fromNode = 0; fromNode < vertexCount; fromNode++){
-                for (int toNode = 0; toNode < vertexCount; toNode++){
-                    int newDistance = shortestPaths[fromNode].getDistance() + edges[fromNode][toNode];
-                    if (newDistance < shortestPaths[toNode].getDistance()){
-                        shortestPaths[toNode].setDistance(newDistance);
-                        shortestPaths[toNode].setPrevious(fromNode);
-                    }
-                }
-            }
-        }
-        return shortestPaths;
-    }
+    void Graph::readAndNumberWords(const std::string & filePath, int wordLength){
 
-    Path *Graph::dijkstra(int source) {
-        Path* shortestPaths = initializePaths(source);
-        MinHeap heap = MinHeap(vertexCount);
-        for (int i = 0; i < vertexCount; i++){
-            heap.insert( HeapNode(shortestPaths[i].getDistance(), i));
-        }
-        while (!heap.isEmpty()){
-            HeapNode node = heap.deleteTop();
-            int fromNode = node.getName();
-            for (int toNode = 0; toNode < vertexCount; toNode++){
-                int newDistance = shortestPaths[fromNode].getDistance() + edges[fromNode][toNode];
-                if (newDistance < shortestPaths[toNode].getDistance()){
-                    int position = heap.search(toNode);
-                    heap.update(position, newDistance);
-                    shortestPaths[toNode].setDistance(newDistance);
-                    shortestPaths[toNode].setPrevious(fromNode);
-                }
-            }
-        }
-        return shortestPaths;
-    }
 
-    int **Graph::floydWarshall() {
-        int** distances;
-        distances = new int*[vertexCount];
-        for (int i = 0; i < vertexCount; i++){
-            distances[i] = new int[vertexCount];
-            for (int j = 0; j < vertexCount; j++){
-                distances[i][j] = edges[i][j];
-            }
+        std::ifstream file(filePath);
+        if (!file.is_open()) {
+            std::cerr << "Error: Unable to open the file." << std::endl;
+            return;
         }
-        for (int k = 0; k < vertexCount; k++){
-            for (int i = 0; i < vertexCount; i++){
-                for (int j = 0; j < vertexCount; j++){
-                    int newDistance = distances[i][k] + distances[k][j];
-                    if (newDistance < distances[i][j]){
-                        distances[i][j] = newDistance;
-                    }
-                }
-            }
-        }
-        return distances;
-    }
+        std::string line;
+        int wordCount = 0;
+        index = 0;
 
-    Edge *Graph::edgeList(int &edgeCount) {
-        Edge* list;
-        edgeCount = 0;
-        for (int i = 0; i < vertexCount; i++){
-            for (int j = 0; j < vertexCount; j++){
-                if (edges[i][j] > 0){
-                    edgeCount++;
-                }
-            }
-        }
-        list = new Edge[edgeCount];
-        int index = 0;
-        for (int i = 0; i < vertexCount; i++){
-            for (int j = 0; j < vertexCount; j++){
-                if (edges[i][j] > 0){
-                    list[index] = Edge(i, j, edges[i][j]);
+        while (std::getline(file, line)) {
+            std::istringstream iss(line);
+            std::string word;
+
+            while (iss >> word) {
+                word.erase(std::remove_if(word.begin(), word.end(), ispunct), word.end());
+                if (word.length() == static_cast<size_t>(wordLength)) {
+                    nums.push_back(index);
+                    words.push_back(word);
                     index++;
+                    wordCount++;
                 }
             }
         }
-        return list;
-    }
-
-    void Graph::prim() {
-        Path* paths = initializePaths(0);
-        MinHeap heap = MinHeap(vertexCount);
-        for (int i = 0; i < vertexCount; i++){
-            heap.insert(HeapNode(paths[i].getDistance(), i));
-        }
-        while (!heap.isEmpty()){
-            HeapNode node = heap.deleteTop();
-            int fromNode = node.getName();
-            for (int toNode = 0; toNode < vertexCount; toNode++){
-                if (paths[toNode].getDistance() > edges[fromNode][toNode]){
-                    int position = heap.search(toNode);
-                    heap.update(position, edges[fromNode][toNode]);
-                    paths[toNode].setDistance(edges[fromNode][toNode]);
-                    paths[toNode].setPrevious(fromNode);
+        for(int i = 0; i<words.size(); i++){
+            for(int j = i+1; j<words.size(); j++){
+                if(isOneLetterDifference(words[i],words[j])){
+                    addEdge(nums[i], nums[j]);
+                    addEdge(nums[j], nums[i]);
                 }
             }
         }
+        file.close();
     }
 
+    bool Graph::isOneLetterDifference(const std::string word1, const std::string word2) {
+        bool x = false;
+        int differences = 0;
+        for (int i = 0; i < word1.length(); i++) {
+            if (word1[i]!=word2[i]) {
+                differences++;
+            }
+        }
+        if(differences == 1){
+            x = true;
+        }
+        return x;
+    }
+  void Graph::shortestPath(std::string startString, std::string endString) {
+
+            int source;
+            int destination;
+            for(int i = 0; i<words.size(); i++){
+                if(words[i]==startString){
+                    source = nums[i];
+                }
+                if(words[i]==endString){
+                    destination = nums[i];
+                }
+            }
+        std::vector<bool> visited(vertexCount, false);
+        std::vector<int> parent(vertexCount, -1);
+        Queue queue(vertexCount);
+
+        visited[source] = true;
+        queue.enqueue(Element(source));
+
+        while (!queue.isEmpty()) {
+            Element currentElement = queue.dequeue();
+            int currentNode = currentElement.getData();
+
+            if (currentNode == destination) {
+                break; // Destination reached
+            }
+
+            for (int nextNode = 0; nextNode < vertexCount; nextNode++) {
+                // Check for an edge and if the node is unvisited
+                if (edges[currentNode][nextNode] > 0 && !visited[nextNode]) {
+                    visited[nextNode] = true;
+                    parent[nextNode] = currentNode;
+                    queue.enqueue(Element(nextNode));
+                }
+            }
+        }
+
+        if (parent[destination] == -1) {
+            std::cout << "No path exists from " << source << " to " << destination << std::endl;
+            return;
+        }
+
+        std::vector<int> path;
+        for (int at = destination; at != -1; at = parent[at]) {
+            path.push_back(at);
+        }
+        reverse(path.begin(), path.end());
+
+
+        for (size_t i = 0; i < path.size(); i++) {
+            std::string word = words[path[i]];
+            std::cout << word << (i < path.size() - 1 ? " -> " : "\n");
+        }
+    }
+    void Graph::BFS(std::string startString, std::string endString){
+        std::cout << "Shortest path from " << startString << " to " << endString << ": (BFS) \n";
+        shortestPath(startString,endString);
+    }
+    void Graph::Dijkstra(std::string startString, std::string endString){
+        std::cout << "Shortest path from " << startString << " to " << endString << ": (Dijkstra) \n";
+        shortestPath(startString,endString);
+    }
 }

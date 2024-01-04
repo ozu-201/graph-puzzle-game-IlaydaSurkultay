@@ -27,20 +27,13 @@ namespace list {
     void Hash::insert(int value) {
         int address;
         address = hashFunction(value);
-        table[address].insertLast(new Node(value));
+        table[address].insertFirst(new Node(value));
     }
 
     void Hash::insert(Node *node) {
         int address;
         address = hashFunction(node->getData());
-        table[address].insertLast(node);
+        table[address].insertFirst(node);
     }
 
-    void Hash::deleteValue(int value) {
-        int address;
-        if (search(value) != nullptr){
-            address = hashFunction(value);
-            table[address].deleteValue(value);
-        }
-    }
 }

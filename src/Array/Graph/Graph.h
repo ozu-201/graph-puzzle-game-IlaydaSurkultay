@@ -8,25 +8,34 @@
 
 #include "../../General/AbstractGraph.h"
 #include "../../List/Graph/Edge.h"
+#include <fstream>
+#include <iostream>
+#include <sstream>
+#include <vector>
+#include <string>
 
 namespace array{
     class Graph : public AbstractGraph{
     private:
         int** edges;
+        int index;
     public:
         explicit Graph(int vertexCount);
         ~Graph();
         void addEdge(int from, int to);
         void addEdge(int from, int to, int weight);
-        void connectedComponentDisjointSet();
-        Path* bellmanFord(int source);
-        Path* dijkstra(int source);
-        int** floydWarshall();
-        void prim();
+        void addEdge(const std::string from, const std::string to);
+        void addWord(std::string word);
+        void readAndNumberWords(const std::string & filePath, int wordLength);
+        std::vector<std::string> words;
+        std::vector<int> nums;
+        bool isOneLetterDifference(const std::string word1, const std::string word2);
+        void shortestPath(std::string startString, std::string endString);
+        void BFS(std::string startString, std::string endString);
+        void Dijkstra(std::string startString, std::string endString);
     protected:
         void depthFirstSearch(bool* visited, int fromNode) override;
         void breadthFirstSearch(bool* visited, int startNode) override;
-        Edge* edgeList(int& edgeCount) override;
     };
 
 }
