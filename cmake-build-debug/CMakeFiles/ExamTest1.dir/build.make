@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.4\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay
+CMAKE_SOURCE_DIR = C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ExamTest1.dir/depend.make
@@ -69,452 +69,452 @@ include CMakeFiles/ExamTest1.dir/progress.make
 include CMakeFiles/ExamTest1.dir/flags.make
 
 CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Graph/Graph.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Graph/Graph.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Graph\Graph.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Graph\Graph.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Graph\Graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Graph\Graph.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Graph\Graph.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Graph\Graph.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Graph\Graph.cpp > CMakeFiles\ExamTest1.dir\src\Array\Graph\Graph.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Graph\Graph.cpp > CMakeFiles\ExamTest1.dir\src\Array\Graph\Graph.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Graph\Graph.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Graph\Graph.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Graph\Graph.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Graph\Graph.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/General/AbstractGraph.cpp
+CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/General/AbstractGraph.cpp
 CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\General\AbstractGraph.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\General\AbstractGraph.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\General\AbstractGraph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\General\AbstractGraph.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\General\AbstractGraph.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\General\AbstractGraph.cpp
 
 CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\General\AbstractGraph.cpp > CMakeFiles\ExamTest1.dir\src\General\AbstractGraph.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\General\AbstractGraph.cpp > CMakeFiles\ExamTest1.dir\src\General\AbstractGraph.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/General/AbstractGraph.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\General\AbstractGraph.cpp -o CMakeFiles\ExamTest1.dir\src\General\AbstractGraph.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\General\AbstractGraph.cpp -o CMakeFiles\ExamTest1.dir\src\General\AbstractGraph.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/General/Path.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/General/Path.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/General/Path.cpp
+CMakeFiles/ExamTest1.dir/src/General/Path.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/General/Path.cpp
 CMakeFiles/ExamTest1.dir/src/General/Path.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ExamTest1.dir/src/General/Path.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/General/Path.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\General\Path.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\General\Path.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\General\Path.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ExamTest1.dir/src/General/Path.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/General/Path.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\General\Path.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\General\Path.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\General\Path.cpp
 
 CMakeFiles/ExamTest1.dir/src/General/Path.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/General/Path.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\General\Path.cpp > CMakeFiles\ExamTest1.dir\src\General\Path.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\General\Path.cpp > CMakeFiles\ExamTest1.dir\src\General\Path.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/General/Path.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/General/Path.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\General\Path.cpp -o CMakeFiles\ExamTest1.dir\src\General\Path.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\General\Path.cpp -o CMakeFiles\ExamTest1.dir\src\General\Path.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/DisjointSet.cpp
+CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/DisjointSet.cpp
 CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\DisjointSet.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\DisjointSet.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\DisjointSet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\DisjointSet.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\DisjointSet.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\DisjointSet.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\DisjointSet.cpp > CMakeFiles\ExamTest1.dir\src\Array\DisjointSet.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\DisjointSet.cpp > CMakeFiles\ExamTest1.dir\src\Array\DisjointSet.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/DisjointSet.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\DisjointSet.cpp -o CMakeFiles\ExamTest1.dir\src\Array\DisjointSet.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\DisjointSet.cpp -o CMakeFiles\ExamTest1.dir\src\Array\DisjointSet.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Element.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Element.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Element.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Element.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Element.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Element.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Element.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Element.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Element.cpp > CMakeFiles\ExamTest1.dir\src\Array\Element.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Element.cpp > CMakeFiles\ExamTest1.dir\src\Array\Element.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Element.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Element.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Element.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Element.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Element.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Hash.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Hash.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Hash.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Hash.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Hash.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Hash.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Hash.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Hash.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Hash.cpp > CMakeFiles\ExamTest1.dir\src\Array\Hash.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Hash.cpp > CMakeFiles\ExamTest1.dir\src\Array\Hash.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Hash.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Hash.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Hash.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Hash.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Hash.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Queue.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Queue.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Queue.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Queue.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Queue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Queue.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Queue.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Queue.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Queue.cpp > CMakeFiles\ExamTest1.dir\src\Array\Queue.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Queue.cpp > CMakeFiles\ExamTest1.dir\src\Array\Queue.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Queue.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Queue.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Queue.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Queue.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Queue.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Set.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Set.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Set.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Set.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Set.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Set.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Set.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Set.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Set.cpp > CMakeFiles\ExamTest1.dir\src\Array\Set.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Set.cpp > CMakeFiles\ExamTest1.dir\src\Array\Set.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Set.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Set.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Set.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Set.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Set.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Stack.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Stack.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Stack.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Stack.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Stack.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Stack.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Stack.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Stack.cpp > CMakeFiles\ExamTest1.dir\src\Array\Stack.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Stack.cpp > CMakeFiles\ExamTest1.dir\src\Array\Stack.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Stack.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Stack.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Stack.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Stack.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Stack.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/DHeap.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/DHeap.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\DHeap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\DHeap.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\DHeap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\DHeap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\DHeap.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\DHeap.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\DHeap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\DHeap.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\DHeap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\DHeap.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Heap/DHeap.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\DHeap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\DHeap.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\DHeap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\DHeap.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/Heap.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/Heap.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\Heap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\Heap.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\Heap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\Heap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\Heap.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\Heap.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\Heap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\Heap.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\Heap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\Heap.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Heap/Heap.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\Heap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\Heap.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\Heap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\Heap.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/HeapNode.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/HeapNode.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\HeapNode.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\HeapNode.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\HeapNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\HeapNode.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\HeapNode.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\HeapNode.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\HeapNode.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\HeapNode.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\HeapNode.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\HeapNode.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Heap/HeapNode.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\HeapNode.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\HeapNode.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\HeapNode.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\HeapNode.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxDHeap.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxDHeap.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxDHeap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxDHeap.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxDHeap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxDHeap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxDHeap.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxDHeap.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxDHeap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxDHeap.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxDHeap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxDHeap.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxDHeap.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxDHeap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxDHeap.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxDHeap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxDHeap.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxHeap.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxHeap.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxHeap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxHeap.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxHeap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxHeap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxHeap.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxHeap.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxHeap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxHeap.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxHeap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxHeap.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Heap/MaxHeap.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxHeap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxHeap.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MaxHeap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MaxHeap.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinDHeap.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinDHeap.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\MinDHeap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MinDHeap.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinDHeap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\MinDHeap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MinDHeap.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinDHeap.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinDHeap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\MinDHeap.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinDHeap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\MinDHeap.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Heap/MinDHeap.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinDHeap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MinDHeap.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinDHeap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MinDHeap.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinHeap.cpp
+CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinHeap.cpp
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\MinHeap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MinHeap.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinHeap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Array\Heap\MinHeap.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MinHeap.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinHeap.cpp
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinHeap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\MinHeap.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinHeap.cpp > CMakeFiles\ExamTest1.dir\src\Array\Heap\MinHeap.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Array/Heap/MinHeap.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinHeap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MinHeap.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Heap\MinHeap.cpp -o CMakeFiles\ExamTest1.dir\src\Array\Heap\MinHeap.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Tree.cpp
+CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Tree.cpp
 CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Tree\Tree.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Tree\Tree.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Tree\Tree.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Tree\Tree.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Tree.cpp
 
 CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Tree.cpp > CMakeFiles\ExamTest1.dir\src\Tree\Tree.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Tree.cpp > CMakeFiles\ExamTest1.dir\src\Tree\Tree.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Tree/Tree.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Tree.cpp -o CMakeFiles\ExamTest1.dir\src\Tree\Tree.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Tree.cpp -o CMakeFiles\ExamTest1.dir\src\Tree\Tree.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/TreeNode.cpp
+CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/TreeNode.cpp
 CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Tree\TreeNode.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Tree\TreeNode.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\TreeNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Tree\TreeNode.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Tree\TreeNode.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\TreeNode.cpp
 
 CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\TreeNode.cpp > CMakeFiles\ExamTest1.dir\src\Tree\TreeNode.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\TreeNode.cpp > CMakeFiles\ExamTest1.dir\src\Tree\TreeNode.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Tree/TreeNode.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\TreeNode.cpp -o CMakeFiles\ExamTest1.dir\src\Tree\TreeNode.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\TreeNode.cpp -o CMakeFiles\ExamTest1.dir\src\Tree\TreeNode.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Edge.cpp
+CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Edge.cpp
 CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Graph\Edge.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Graph\Edge.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Edge.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Graph\Edge.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Graph\Edge.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Edge.cpp
 
 CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Edge.cpp > CMakeFiles\ExamTest1.dir\src\List\Graph\Edge.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Edge.cpp > CMakeFiles\ExamTest1.dir\src\List\Graph\Edge.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/List/Graph/Edge.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Edge.cpp -o CMakeFiles\ExamTest1.dir\src\List\Graph\Edge.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Edge.cpp -o CMakeFiles\ExamTest1.dir\src\List\Graph\Edge.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/EdgeList.cpp
+CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/EdgeList.cpp
 CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Graph\EdgeList.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Graph\EdgeList.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\EdgeList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Graph\EdgeList.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Graph\EdgeList.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\EdgeList.cpp
 
 CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\EdgeList.cpp > CMakeFiles\ExamTest1.dir\src\List\Graph\EdgeList.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\EdgeList.cpp > CMakeFiles\ExamTest1.dir\src\List\Graph\EdgeList.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/List/Graph/EdgeList.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\EdgeList.cpp -o CMakeFiles\ExamTest1.dir\src\List\Graph\EdgeList.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\EdgeList.cpp -o CMakeFiles\ExamTest1.dir\src\List\Graph\EdgeList.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyLinkedList.cpp
+CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyLinkedList.cpp
 CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\DoublyLinkedList.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\DoublyLinkedList.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyLinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\DoublyLinkedList.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\DoublyLinkedList.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyLinkedList.cpp
 
 CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyLinkedList.cpp > CMakeFiles\ExamTest1.dir\src\List\DoublyLinkedList.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyLinkedList.cpp > CMakeFiles\ExamTest1.dir\src\List\DoublyLinkedList.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyLinkedList.cpp -o CMakeFiles\ExamTest1.dir\src\List\DoublyLinkedList.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyLinkedList.cpp -o CMakeFiles\ExamTest1.dir\src\List\DoublyLinkedList.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyNode.cpp
+CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyNode.cpp
 CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\DoublyNode.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\DoublyNode.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\DoublyNode.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\DoublyNode.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyNode.cpp
 
 CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyNode.cpp > CMakeFiles\ExamTest1.dir\src\List\DoublyNode.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyNode.cpp > CMakeFiles\ExamTest1.dir\src\List\DoublyNode.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/List/DoublyNode.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyNode.cpp -o CMakeFiles\ExamTest1.dir\src\List\DoublyNode.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyNode.cpp -o CMakeFiles\ExamTest1.dir\src\List\DoublyNode.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Hash.cpp
+CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Hash.cpp
 CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Hash.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Hash.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Hash.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Hash.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Hash.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Hash.cpp
 
 CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Hash.cpp > CMakeFiles\ExamTest1.dir\src\List\Hash.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Hash.cpp > CMakeFiles\ExamTest1.dir\src\List\Hash.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/List/Hash.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Hash.cpp -o CMakeFiles\ExamTest1.dir\src\List\Hash.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Hash.cpp -o CMakeFiles\ExamTest1.dir\src\List\Hash.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/LinkedList.cpp
+CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/LinkedList.cpp
 CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\LinkedList.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\LinkedList.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\LinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\LinkedList.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\LinkedList.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\LinkedList.cpp
 
 CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\LinkedList.cpp > CMakeFiles\ExamTest1.dir\src\List\LinkedList.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\LinkedList.cpp > CMakeFiles\ExamTest1.dir\src\List\LinkedList.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/List/LinkedList.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\LinkedList.cpp -o CMakeFiles\ExamTest1.dir\src\List\LinkedList.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\LinkedList.cpp -o CMakeFiles\ExamTest1.dir\src\List\LinkedList.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/List/Node.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/List/Node.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Node.cpp
+CMakeFiles/ExamTest1.dir/src/List/Node.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Node.cpp
 CMakeFiles/ExamTest1.dir/src/List/Node.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Node.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Node.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Node.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Node.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Node.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Node.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Node.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Node.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Node.cpp
 
 CMakeFiles/ExamTest1.dir/src/List/Node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/List/Node.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Node.cpp > CMakeFiles\ExamTest1.dir\src\List\Node.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Node.cpp > CMakeFiles\ExamTest1.dir\src\List\Node.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/List/Node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/List/Node.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Node.cpp -o CMakeFiles\ExamTest1.dir\src\List\Node.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Node.cpp -o CMakeFiles\ExamTest1.dir\src\List\Node.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Queue.cpp
+CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Queue.cpp
 CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Queue.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Queue.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Queue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Queue.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Queue.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Queue.cpp
 
 CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Queue.cpp > CMakeFiles\ExamTest1.dir\src\List\Queue.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Queue.cpp > CMakeFiles\ExamTest1.dir\src\List\Queue.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Queue.cpp -o CMakeFiles\ExamTest1.dir\src\List\Queue.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Queue.cpp -o CMakeFiles\ExamTest1.dir\src\List\Queue.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Stack.cpp
+CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Stack.cpp
 CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Stack.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Stack.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Stack.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Stack.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Stack.cpp
 
 CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Stack.cpp > CMakeFiles\ExamTest1.dir\src\List\Stack.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Stack.cpp > CMakeFiles\ExamTest1.dir\src\List\Stack.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/List/Stack.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Stack.cpp -o CMakeFiles\ExamTest1.dir\src\List\Stack.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Stack.cpp -o CMakeFiles\ExamTest1.dir\src\List\Stack.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Queue.cpp
+CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Queue.cpp
 CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Tree\Queue.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Tree\Queue.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Queue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Tree\Queue.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Tree\Queue.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Queue.cpp
 
 CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Queue.cpp > CMakeFiles\ExamTest1.dir\src\Tree\Queue.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Queue.cpp > CMakeFiles\ExamTest1.dir\src\Tree\Queue.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Tree/Queue.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Queue.cpp -o CMakeFiles\ExamTest1.dir\src\Tree\Queue.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Queue.cpp -o CMakeFiles\ExamTest1.dir\src\Tree\Queue.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Stack.cpp
+CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Stack.cpp
 CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Tree\Stack.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Tree\Stack.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Tree\Stack.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Tree\Stack.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Stack.cpp
 
 CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Stack.cpp > CMakeFiles\ExamTest1.dir\src\Tree\Stack.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Stack.cpp > CMakeFiles\ExamTest1.dir\src\Tree\Stack.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Tree/Stack.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Stack.cpp -o CMakeFiles\ExamTest1.dir\src\Tree\Stack.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Stack.cpp -o CMakeFiles\ExamTest1.dir\src\Tree\Stack.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Element.cpp
+CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Element.cpp
 CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Tree\Element.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Tree\Element.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Element.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\Tree\Element.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\Tree\Element.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Element.cpp
 
 CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Element.cpp > CMakeFiles\ExamTest1.dir\src\Tree\Element.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Element.cpp > CMakeFiles\ExamTest1.dir\src\Tree\Element.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/Tree/Element.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Tree\Element.cpp -o CMakeFiles\ExamTest1.dir\src\Tree\Element.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Tree\Element.cpp -o CMakeFiles\ExamTest1.dir\src\Tree\Element.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/ExamTest1.cpp
+CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/ExamTest1.cpp
 CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\ExamTest1.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\ExamTest1.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\ExamTest1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\ExamTest1.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\ExamTest1.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\ExamTest1.cpp
 
 CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\ExamTest1.cpp > CMakeFiles\ExamTest1.dir\src\ExamTest1.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\ExamTest1.cpp > CMakeFiles\ExamTest1.dir\src\ExamTest1.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/ExamTest1.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\ExamTest1.cpp -o CMakeFiles\ExamTest1.dir\src\ExamTest1.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\ExamTest1.cpp -o CMakeFiles\ExamTest1.dir\src\ExamTest1.cpp.s
 
 CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.obj: CMakeFiles/ExamTest1.dir/flags.make
-CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.obj: C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Graph.cpp
+CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.obj: C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Graph.cpp
 CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.obj: CMakeFiles/ExamTest1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Graph\Graph.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Graph\Graph.cpp.obj -c C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.obj -MF CMakeFiles\ExamTest1.dir\src\List\Graph\Graph.cpp.obj.d -o CMakeFiles\ExamTest1.dir\src\List\Graph\Graph.cpp.obj -c C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Graph.cpp
 
 CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Graph.cpp > CMakeFiles\ExamTest1.dir\src\List\Graph\Graph.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Graph.cpp > CMakeFiles\ExamTest1.dir\src\List\Graph\Graph.cpp.i
 
 CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ExamTest1.dir/src/List/Graph/Graph.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Graph.cpp -o CMakeFiles\ExamTest1.dir\src\List\Graph\Graph.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Graph\Graph.cpp -o CMakeFiles\ExamTest1.dir\src\List\Graph\Graph.cpp.s
 
 # Object files for target ExamTest1
 ExamTest1_OBJECTS = \
@@ -590,7 +590,7 @@ ExamTest1.exe: CMakeFiles/ExamTest1.dir/build.make
 ExamTest1.exe: CMakeFiles/ExamTest1.dir/linkLibs.rsp
 ExamTest1.exe: CMakeFiles/ExamTest1.dir/objects1
 ExamTest1.exe: CMakeFiles/ExamTest1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable ExamTest1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable ExamTest1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ExamTest1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -602,6 +602,6 @@ CMakeFiles/ExamTest1.dir/clean:
 .PHONY : CMakeFiles/ExamTest1.dir/clean
 
 CMakeFiles/ExamTest1.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles\ExamTest1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\cmake-build-debug\CMakeFiles\ExamTest1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ExamTest1.dir/depend
 

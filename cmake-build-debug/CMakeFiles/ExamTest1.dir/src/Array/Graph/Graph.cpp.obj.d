@@ -1,10 +1,10 @@
 CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj: \
- C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Graph\Graph.cpp \
- C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\Array\Graph\Graph.h \
- C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/General/AbstractGraph.h \
- C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/General/Path.h \
- C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Edge.h \
- C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Edge.h \
+ C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Graph\Graph.cpp \
+ C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\Array\Graph\Graph.h \
+ C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/General/AbstractGraph.h \
+ C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/General/Path.h \
+ C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Edge.h \
+ C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Edge.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/fstream \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ios \
@@ -164,5 +164,5 @@ CMakeFiles/ExamTest1.dir/src/Array/Graph/Graph.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_vector.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_bvector.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc \
- C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Queue.h \
- C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Element.h
+ C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Queue.h \
+ C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Element.h

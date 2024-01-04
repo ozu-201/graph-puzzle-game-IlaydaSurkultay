@@ -1,8 +1,8 @@
 CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj: \
- C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyLinkedList.cpp \
- C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyLinkedList.h \
- C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\LinkedList.h \
- C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Node.h \
+ C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyLinkedList.cpp \
+ C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyLinkedList.h \
+ C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\LinkedList.h \
+ C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Node.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/string \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -122,4 +122,4 @@ CMakeFiles/ExamTest1.dir/src/List/DoublyLinkedList.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cerrno \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/charconv.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_string.tcc \
- C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyNode.h
+ C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\DoublyNode.h

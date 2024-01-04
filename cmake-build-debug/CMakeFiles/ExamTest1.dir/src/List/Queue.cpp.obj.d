@@ -1,7 +1,7 @@
 CMakeFiles/ExamTest1.dir/src/List/Queue.cpp.obj: \
- C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Queue.cpp \
- C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Queue.h \
- C:\Users\is021433\Desktop\graph-puzzle-game-IlaydaSurkultay\src\List\Node.h \
+ C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Queue.cpp \
+ C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Queue.h \
+ C:\Users\is021433\Desktop\deneme\graph-puzzle-game-IlaydaSurkultay\src\List\Node.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/string \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \

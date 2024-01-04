@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
+				<Option working_dir="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Exam_CPP">
-				<Option output="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/libExam_CPP.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
+				<Option output="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/libExam_CPP.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exam_CPP"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exam_CPP"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Exam_CPP/fast">
-				<Option output="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/libExam_CPP.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
+				<Option output="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/libExam_CPP.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -55,15 +55,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exam_CPP/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 Exam_CPP/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ExamTest1">
-				<Option output="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/ExamTest1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
+				<Option output="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/ExamTest1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,15 +77,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExamTest1"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExamTest1"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ExamTest1/fast">
-				<Option output="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/ExamTest1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
+				<Option output="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/ExamTest1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -99,15 +99,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExamTest1/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExamTest1/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ExamTest2">
-				<Option output="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/ExamTest2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
+				<Option output="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/ExamTest2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -121,15 +121,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExamTest2"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExamTest2"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ExamTest2/fast">
-				<Option output="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/ExamTest2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
+				<Option output="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/ExamTest2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -143,350 +143,350 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExamTest2/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 ExamTest2/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
+				<Option working_dir="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
+				<Option working_dir="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/DisjointSet.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/DisjointSet.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/DisjointSet.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/DisjointSet.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Element.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Element.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Element.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Element.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Graph/Graph.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Graph/Graph.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Graph/Graph.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Graph/Graph.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Hash.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Hash.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Hash.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Hash.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/DHeap.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/DHeap.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/DHeap.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/DHeap.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/Heap.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/Heap.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/Heap.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/Heap.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/HeapNode.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/HeapNode.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/HeapNode.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/HeapNode.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxDHeap.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxDHeap.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxDHeap.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxDHeap.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxHeap.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxHeap.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxHeap.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MaxHeap.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinDHeap.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinDHeap.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinDHeap.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinDHeap.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinHeap.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinHeap.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinHeap.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Heap/MinHeap.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Queue.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Queue.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Queue.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Queue.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Set.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Set.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Set.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Set.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Stack.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Stack.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Array/Stack.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Array/Stack.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/ExamTest1.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/ExamTest1.cpp">
 			<Option target="ExamTest1"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/ExamTest2.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/ExamTest2.cpp">
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/General/AbstractGraph.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/General/AbstractGraph.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/General/AbstractGraph.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/General/AbstractGraph.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/General/Path.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/General/Path.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/General/Path.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/General/Path.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyLinkedList.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyLinkedList.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyLinkedList.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyLinkedList.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyNode.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyNode.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyNode.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/DoublyNode.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Edge.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Edge.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Edge.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Edge.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/EdgeList.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/EdgeList.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/EdgeList.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/EdgeList.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Graph.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Graph.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Graph.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Graph/Graph.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Hash.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Hash.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Hash.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Hash.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/LinkedList.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/LinkedList.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/LinkedList.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/LinkedList.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Node.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Node.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Node.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Node.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Queue.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Queue.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Queue.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Queue.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Stack.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Stack.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/List/Stack.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/List/Stack.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Element.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Element.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Element.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Element.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Queue.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Queue.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Queue.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Queue.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Stack.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Stack.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Stack.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Stack.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Tree.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Tree.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/Tree.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/Tree.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/TreeNode.cpp">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/TreeNode.cpp">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/src/Tree/TreeNode.h">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/src/Tree/TreeNode.h">
 			<Option target="Exam_CPP"/>
 			<Option target="ExamTest1"/>
 			<Option target="ExamTest2"/>
 		</Unit>
-		<Unit filename="C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/CMakeLists.txt">
+		<Unit filename="C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

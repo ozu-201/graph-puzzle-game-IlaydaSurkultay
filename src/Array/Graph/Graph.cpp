@@ -34,7 +34,6 @@ namespace array{
             for(int j = 0; j<words.size(); j++) {
                 if (words[i] == from && words[j] == to) {
                     edges[i][j] = 1;
-                    std::cout << "edge " << i<< " " << j << " 1\n";
                 }
             }
         }

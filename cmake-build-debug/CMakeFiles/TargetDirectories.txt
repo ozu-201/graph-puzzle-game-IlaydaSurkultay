@@ -1,5 +1,5 @@
-C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/Exam_CPP.dir
-C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/ExamTest1.dir
-C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/ExamTest2.dir
-C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/Exam_CPP.dir
+C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/ExamTest1.dir
+C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/ExamTest2.dir
+C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/cmake-build-debug/CMakeFiles/rebuild_cache.dir

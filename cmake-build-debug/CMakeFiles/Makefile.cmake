@@ -109,7 +109,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/JetBrains/CLion 2023.1.4/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake"
   "C:/Program Files/JetBrains/CLion 2023.1.4/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake"
   "C:/Program Files/JetBrains/CLion 2023.1.4/bin/cmake/win/x64/share/cmake-3.25/Modules/ProcessorCount.cmake"
-  "C:/Users/is021433/Desktop/graph-puzzle-game-IlaydaSurkultay/CMakeLists.txt"
+  "C:/Users/is021433/Desktop/deneme/graph-puzzle-game-IlaydaSurkultay/CMakeLists.txt"
   "CMakeFiles/3.25.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.25.2/CMakeRCCompiler.cmake"
